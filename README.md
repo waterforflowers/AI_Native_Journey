@@ -5,6 +5,7 @@ My Awesome Project
 Welcome to My Awesome Project! This repository serves as a starting point or a place for a description of your project. Whether it's a simple script, a complex application, or just a collection of notes, this README will help you and others understand what it's all about.
 
 ✨ Features ✨
+
 Feature 1: Briefly describe a key feature.
 
 Feature 2: Another important capability.
