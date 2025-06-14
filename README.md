@@ -59,6 +59,7 @@ npm start
 
 
 🤝 Contributing 🤝
+
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
@@ -72,10 +73,12 @@ Push to the branch (git push origin feature/your-feature-name).
 Open a Pull Request.
 
 📄 License 📄
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 (Note: Create a LICENSE.md file in your project root if you use this section!)
 
 📞 Contact 📞
+
 Have questions or suggestions? Feel free to reach out:
 
 Your Name/Alias: [Your Profile Link or Email]
