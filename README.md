@@ -6,27 +6,27 @@ Welcome to My Awesome Project! This repository serves as a starting point or a p
 
 ✨ Features ✨
 
-Feature 1: Briefly describe a key feature.
+- Feature 1: Briefly describe a key feature.
 
-Feature 2: Another important capability.
+- Feature 2: Another important capability.
 
-Feature 3: Highlight a unique aspect.
+- Feature 3: Highlight a unique aspect.
 
 🛠️ Installation 🛠️
 
 To get this project up and running on your local machine, follow these steps:
 
-Clone the repository:
+- Clone the repository:
 
 git clone https://github.com/your-username/my-awesome-project.git
 
 
-Navigate to the project directory:
+- Navigate to the project directory:
 
 cd my-awesome-project
 
 
-Install dependencies (if any):
+- Install dependencies (if any):
 
 # Example for Node.js projects
 npm install
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 🚀 Usage 🚀
 
-Here's how to use or run the project:
+- Here's how to use or run the project:
 
 # Example for running a Python script
 python main.py
@@ -63,15 +63,15 @@ npm start
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-Fork the repository.
+- Fork the repository.
 
-Create a new branch (git checkout -b feature/your-feature-name).
+- Create a new branch (git checkout -b feature/your-feature-name).
 
-Make your changes and commit them (git commit -m 'Add new feature').
+- Make your changes and commit them (git commit -m 'Add new feature').
 
-Push to the branch (git push origin feature/your-feature-name).
+- Push to the branch (git push origin feature/your-feature-name).
 
-Open a Pull Request.
+- Open a Pull Request.
 
 📄 License 📄
 
@@ -82,6 +82,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Have questions or suggestions? Feel free to reach out:
 
-Your Name/Alias: [Your Profile Link or Email]
+- Your Name/Alias: [Your Profile Link or Email]
 
-Project Issues: Use the Issues section on GitHub.
+- Project Issues: Use the Issues section on GitHub.
